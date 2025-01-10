@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "72901208297",
+    "project_id": "remedy-116d0",
+    "storage_bucket": "remedy-116d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72901208297:android:31247632b18b9d7ed3a878",
+        "android_client_info": {
+          "package_name": "com.uts.remedy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYgDyOX2vlXYBcxgSXPEdESeS7G4S-aTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

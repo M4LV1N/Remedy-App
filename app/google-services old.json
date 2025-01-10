@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "183185703344",
+    "project_id": "remedy-27b42",
+    "storage_bucket": "remedy-27b42.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183185703344:android:eb5aa8b0dce93ef8e55675",
+        "android_client_info": {
+          "package_name": "com.uts.remedy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe4T9TYnPPY7WxVcnuyrPivkC-uHgLFe4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
